@@ -25,7 +25,9 @@ SECRET_KEY = 'm1=yw%+hau6^f=p_rk2mky&^2vr!=!x=&16^mlf4s=oo+jg-=&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'statdelay.xyz'
+]
 
 
 # Application definition
